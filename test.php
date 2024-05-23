@@ -1,5 +1,5 @@
 <php
 echo "テストだよ";
 echo "てすとではないよ";
-echo "suda";
+echo "suda2";
 ?php>
